@@ -1,5 +1,5 @@
 # Dương Chí Tuấn
-**Data Analyst**  
+**Data Analyst / Data Engineer**  
 
 📍 Ho Chi Minh City | 📧 duongchituan2003@gmail.com
 
@@ -7,11 +7,24 @@
 
 ## 👋 About Me
 
-A data-driven IT professional transitioning into analytics, skilled in SQL, Python, and Power BI. I bring strong problem-solving from IT and apply it to real-world projects that turn data into insights. I’m especially interested in roles in E-commerce or Fintech, where data drives high-impact decisions.
+- I am a Software Engineering graduate with strong logical thinking and the ability to quickly adapt to new technologies and data analysis tools.   
+
+- With a solid technical foundation, I am proficient in SQL, PowerBI, and Python, and have a good understanding of data warehouse concepts and data analysis workflows.   
+
+- I also have basic knowledge of the banking/fintech domain through a personal project focused on building business performance reports for a financial company model.   
+
+- Having experienced a professional working environment, I value discipline, responsibility, and compliance in my work, and I am able to work under pressure and maintain high productivity.   
+
+- With strong motivation and a continuous learning mindset, I always strive to contribute my best efforts to support organizational goals and help the company grow sustainably.   
 
 ---
 
 ## 📊 Featured Projects
+
+### [Financial Performance Dashboard – F68 Finance (Power BI)](https://github.com/duongchituan/f68-financial-performance-dashboard-powerbi)
+This Power BI project provides a Dashboard designed to help the leadership team of F68 Finance monitor overall business performance and evaluate the company's financial and operational health. The dashboard enables management to track monthly business results across different regions and the entire enterprise, while also measuring and comparing the performance of Area Sales Managers (ASMs) within the network. By visualizing key business metrics and trends, the solution supports data-driven decision-making, helping executives gain clearer insights into operational efficiency and strategic performance across the organization.   
+
+---
 
 ### [E-commerce User Behavior & Funnel Analysis (SQL – BigQuery)](https://github.com/Simbacodee/E-commerce-User-Behavior-And-Funnel-Analysis-SQL-BigQuery)  
 Analyze user behavior, traffic source performance, and product trends using SQL on BigQuery.  
